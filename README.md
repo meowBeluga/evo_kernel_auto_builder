@@ -1,3 +1,14 @@
+# THIS REPO IS NOT MAINTAINED ANYMORE - DO NOT DOWNLOAD FROM HERE !
+## Latest working version for all devices : Evo 10.7
+
+Well, I noticed that I am not a kernel developer. I don't have enough skills nor enough time to keep up with various KSU-next releases or random drop (hello susfs stupidly dropped)  
+So I am archiving this repo for now. Maybe I'll open it back later when I will have more experience.
+
+Meanwhile, you still can fork and use this project to build your own kernels automatically. Each kernel requires changes and adaptations but overall I used it from 4.9 to 4.19 and it worked.
+
+Come on [discord](https://discord.onelots.fr) if you want to discuss ! :)  
+
+
 # Kernel Auto Builder 🚀
 
 Latest device released : ![GitHub Releases](https://img.shields.io/github/v/release/oneloutre/kernel_auto_builder)  
